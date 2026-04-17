@@ -1,0 +1,12 @@
+# Never commit your filled personal context — template only
+context.md
+my-context.md
+*-context-filled.md
+
+# MCP credentials
+.env
+*.env
+mcp-credentials.json
+
+# OS
+.DS_Store
