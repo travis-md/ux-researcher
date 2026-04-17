@@ -28,3 +28,7 @@ context-v2.0.md    ← Full picture. All 5 modules.
 ```
 
 Each version works. You just get more out of it as it grows.
+
+## Going deeper — knowledge wiki
+
+Once you've run all 5 modules, read [knowledge-wiki.md](knowledge-wiki.md) to understand how to maintain your context system, CLAUDE.md best practices, and what belongs where.
